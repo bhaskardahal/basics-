@@ -1,0 +1,36 @@
+
+.header{
+	background: black !important;
+}
+.slider{
+	background-color: blue;
+	min-height: 150px;
+	width: 100%;
+}
+.sub-footer{
+	background-color: gray;
+	display: table;
+	width: 100%
+}
+.footer{
+	background-color: black;
+	display: table;
+	width: 100%;
+}
+.welcome{
+	float: right;
+	
+}
+input[type="button"] {
+background-color: red;
+}
+.logo{
+	color: white;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-shadow:0 3px 0 #fff;
+}
+img{
+	height: 58px;
+	width: auto;
+	}
